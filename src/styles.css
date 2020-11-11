@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: rgb(191, 255, 255);
+}
+
+/* .contacts{
+    margin: 50px auto;
+}
+
+.contact-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #111;
+    border-radius: 150px;
+}
+
+img, h3, p{
+    margin-bottom: 0;
+}
+
+img{
+    width: 50%;
+    height: 50%;
+}
+
+.email{
+    margin-bottom: 20px;
+} */
+
+.jokes{
+    margin: 75px;
+    text-align: center;
+}
